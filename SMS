@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Share with Friends</title>
+    <style>
+        body {
+            background-color: white;
+            color: black;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 50px;
+        }
+
+        #content {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        #external-link {
+            color: pink;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        #external-link:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div id="content">
+        <p>YOU ARE FINALLY REMINDED TO SUBMIT CORRECT DETAILS IN ATTACHED GOOGLE FORM BY 04.3.2024 FOR ONWARDS SUBMISSION TO COLLECTORATE OFFICE, MEHSANA. DEFAULTERS MAY BE VIEWED SERIOUSLY AND INDIVIDUAL SHALL BE SOLELY RESPONSIBLE FOR ANY STRINGENT ACTION BY THE GOVT. AUTHORITY.</p>
+        
+        <!-- External Link -->
+        <p>KINDLY FILL THE GOOGLE FORM <a id="external-link" href="https://docs.google.com/forms/d/1_yH4WfxqQI-bFmYFA_gjH1z4Sof_ep_1T1AOJem-gvk/edit?usp=drivesdk" target="_blank">https://docs.google.com/forms/d/1_yH4WfxqQI-bFmYFA_gjH1z4Sof_ep_1T1AOJem-gvk/edit?usp=drivesdk</a>.</p>
+    </div>
+</body>
+</html>
